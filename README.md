@@ -1,4 +1,4 @@
-Sulaiman Khan
+Sulaiman203
 # 💫 About Me:
 👨‍💻 About Me<br><br>🚀 Turning data into decisions<br>🎓 Data Analyst with a business mindset<br><br>📊 I don’t just analyze data — I find patterns, solve problems, and deliver insights that matter<br><br>💻 Stack: Excel | SQL | Power BI | Python<br>📈 Focus: Data Cleaning • Visualization • Dashboarding<br><br>🌱 Always leveling up in Analytics & AI<br><br>🎯 Mission: Help businesses make smarter, data-driven moves<br><br>🤝 Open to Data Analyst roles | Jobs | Projects
 
